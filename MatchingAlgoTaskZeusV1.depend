@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1491057729 source:c:\users\bella\onedrive\documents\project auxo\project auxo engineering and programming\task apollo\matching algorithm (c++ for task z sim)\matchingalgotaskzeusv1\main.cpp
+	<iostream>
+	<map>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	<sstream>
+	<math.h>
+	<list>
+
